@@ -5,7 +5,11 @@ Uma animação feita em Three JS com o objetivo de demonstrar o uso de 'particle
 
 O projeto foi criado usando Vite JS, para criar seu próprio projeto com ele basta usar o comando abaixo:
 
-    npm init @vitejs/apps
+    npm init @vitejs/app
+    
+Instalar dependências (Apenas no primeiro uso):
+        
+    npm install    
     
 Para instalar o ThreeJS:
 
